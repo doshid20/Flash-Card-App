@@ -1,0 +1,103 @@
+{
+  "decks": [
+    {
+      "id": 1,
+      "name": "Rendering in React",
+      "description": "React's component structure allows for quickly building a complex web application that relies on DOM manipulation. "
+    },
+    {
+      "name": "React Router",
+      "description": "React Router is a collection of navigational components that compose declaratively with your application.",
+      "id": 2
+    },
+    {
+      "name": "exm deck",
+      "description": "exm deck",
+      "id": 3
+    },
+    {
+      "name": "test",
+      "description": "test",
+      "id": 5
+    },
+    {
+      "name": "",
+      "description": "",
+      "id": 6
+    },
+    {
+      "name": "exm deck",
+      "description": "exm deck",
+      "id": 8
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "front": "Differentiate between Real DOM and Virtual DOM.",
+      "back": "Virtual DOM updates are faster but do not directly update the HTML",
+      "deckId": 1
+    },
+    {
+      "id": 2,
+      "front": "How do you modify the state of a different React component?",
+      "back": "Not at all! State is visible to the component only.",
+      "deckId": 1
+    },
+    {
+      "id": 3,
+      "front": "How do you pass data 'down' to a React child component?",
+      "back": "As properties or props",
+      "deckId": 1
+    },
+    {
+      "front": "What path will match the follow Route?\n<Route>\n  <NotFound />\n</Route>",
+      "back": "All paths. A route with no path matches all URL's",
+      "deckId": 2,
+      "id": 4
+    },
+    {
+      "front": "What does <Switch> do?",
+      "back": "Renders the first matching child <Route> ",
+      "deckId": 2,
+      "id": 5
+    },
+    {
+      "cards": [],
+      "front": "b",
+      "back": "b",
+      "deckId": 1,
+      "id": 7
+    },
+    {
+      "front": "edit card 9",
+      "back": "test",
+      "id": 8,
+      "deckId": "8"
+    },
+    {
+      "front": "edit card",
+      "back": "test card",
+      "id": 9,
+      "deckId": "8"
+    },
+    {
+      "front": "add 1.1",
+      "back": "add 1.1",
+      "id": 12,
+      "deckId": 8
+    },
+    {
+      "front": "add 2.1",
+      "back": "add 2.1",
+      "id": 13,
+      "deckId": "8"
+    },
+    {
+      "front": "card 3.1",
+      "back": "card 3.1",
+      "id": 15,
+      "deckId": 8
+    }
+  ]
+}
