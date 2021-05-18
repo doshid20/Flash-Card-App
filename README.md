@@ -14,6 +14,12 @@ Teachers will use this application to create decks of flash cards for the subjec
 - Using hooks like useState(), useParams(), and useHistory()
 - Debugging React code through console output and using the VS Code debugger
 
+### Technology
+    ## Built with:
+    - React, including Router & Context
+    - Created with create-react-app
+    - Confirmation modal via react-modal
+
 ### Image
 
 ![Flash-Card](https://github.com/doshid20/Flash-Card-App/blob/main/Screen%20Shot%202021-05-17%20at%201.00.09%20PM.png)
