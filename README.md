@@ -15,10 +15,11 @@ Teachers will use this application to create decks of flash cards for the subjec
 - Debugging React code through console output and using the VS Code debugger
 
 ### Technology
-    ## Built with:
+
+    Built with:
     - React, including Router & Context
     - Created with create-react-app
-    - Confirmation modal via react-modal
+    
 
 ### Image
 
