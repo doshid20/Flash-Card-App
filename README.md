@@ -24,4 +24,4 @@ Teachers will use this application to create decks of flash cards for the subjec
 ### Image
 
 ![Flash-Card](https://github.com/doshid20/Flash-Card-App/blob/main/Screen%20Shot%202021-05-17%20at%201.00.09%20PM.png)
-![Flash-Card](https://github.com/doshid20/Flash-Card-App/blob/main/Screen%20Shot%202021-05-17%20at%2012.50.41%20PM.png)
+
